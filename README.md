@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hey there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=500&lines=I'm+Mohit+Chaudhary;Backend+Developer+%7C+Python+%7C+FastAPI;Linux+Enthusiast+%7C+MongoDB+%7C+Django;Learning+Cloud%2C+Docker+%26+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=500&lines=I'm+Mohit+Chaudhary;Backend+Developer+%7C+Python+%7C+Django;Linux+Enthusiast+%7C+MongoDB+%7C+FastApi;Learning+Cloud%2C+Docker+%26+DevOps" />
 </div>
 
 ---
